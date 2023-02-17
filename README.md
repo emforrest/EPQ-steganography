@@ -9,6 +9,6 @@ This last section provided useful context for my accompanying artefact: I create
 
 I also kept a project diary detailing the process from start to end and the progress that I made each week. Once the report and artefact were complete I also had to prepare a presentation discussing the process, which I ended up giving when school reopened after the lockdown. 
 
-This reopsitory contains the report, artefact, diary and presentation script and slides. I also had to fill in a project log for the AQA exam board, mentioned in the diary, but I have decided not to upload it.
+This reopsitory contains the report, artefact and accompanying message and image, diary, and presentation script and slides. I also had to fill in a project log for the AQA exam board, mentioned in the diary, but I have decided not to upload it.
 
 I ended up getting a grade of A* for this project.
