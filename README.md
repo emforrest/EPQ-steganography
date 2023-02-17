@@ -1,5 +1,5 @@
 # EPQ-steganography
-## The artefact for my Extended Project Qualification in 2020/21, based on steganography.
+## My Extended Project Qualification in 2020/21, based on steganography.
 
 During year 12 I undertook an Extended Project Qualification. Based on a lecture I attended at the Royal Institution Computer Science Masterclasses at Oxford University, I decided to base my project on the concept of Steganography - the act of hiding a message or other secret 'in plain sight'. My title for the project was **"How can I conceal a message within a bitmap image, and then retrieve it?"**
 
